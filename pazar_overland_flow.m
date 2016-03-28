@@ -1,6 +1,6 @@
 %% Hydrologic overland flow model, re-done over spring break.
 %
-%  this code uses the law of the wall while produce 2 rainstorms with random noise.
+%  this code uses the law of the wall while producing 2 rainstorms with random noise.
 %
 %  Finalized on March 26th, 2016 while flying over Greenland.
 %  Cole Pazar
