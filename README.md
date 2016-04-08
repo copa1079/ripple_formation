@@ -1,3 +1,3 @@
-# overland_flow
-re-done over spring break while flying over greenland.
-this code uses the law of the wall while producing 2 rainstorms with random noise.
+# ripples!
+
+sand evolution in two different sets of code, one animates, while one does not. 1-d models with grain splash rule.
